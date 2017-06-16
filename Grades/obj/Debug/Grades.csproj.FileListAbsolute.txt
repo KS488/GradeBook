@@ -1,0 +1,6 @@
+C:\Users\akhalid\Desktop\Practice Work\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\akhalid\Desktop\Practice Work\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\akhalid\Desktop\Practice Work\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\akhalid\Desktop\Practice Work\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\akhalid\Desktop\Practice Work\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\akhalid\Desktop\Practice Work\Grades\Grades\obj\Debug\Grades.pdb
